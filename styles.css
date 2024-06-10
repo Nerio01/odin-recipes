@@ -1,0 +1,29 @@
+body { 
+  text-align: center; 
+} 
+h1 { 
+  font-size: 60px; 
+} 
+
+ul { 
+  background-color: red; 
+  border: 2px solid black; 
+  border-radius: 20px; 
+  width: 50%; 
+  height: auto;
+  margin: 20px auto;
+}
+
+li {
+  list-style: none;
+}
+li > a {
+  font-size: 44px;
+  color: white;
+  text-decoration: none;
+  border: 2px;
+  padding: 1px;
+  margin: 0px; 
+  background-color: rgba(210, 149, 46, 0.5);
+  border-radius: 10px;
+}
